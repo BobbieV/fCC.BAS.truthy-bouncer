@@ -1,2 +1,2 @@
-# fCC.BAS.truthy-bouncer
-This is the code I used to complete the freeCodeCamp "truthy bouncer" challenge
+# fCC.BAS.falsy-bouncer
+This is the code I used to complete the freeCodeCamp "falsy bouncer" challenge
